@@ -24,12 +24,12 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 - If all boxes are filled and no player has three in a row, the game will declare a Draw.
 
 ## Project Structure
-1. |-- index.html      # Main HTML file containing the game structure
-2. |-- style.css       # CSS file for styling the game and UI elements
-3. |-- app.js          # JavaScript file containing game logic and interactivity
-4. |-- README.md       # Project documentation
+1. index.html      # Main HTML file containing the game structure
+2. style.css       # CSS file for styling the game and UI elements
+3. app.js          # JavaScript file containing game logic and interactivity
+4. README.md       # Project documentation
 
-## Files Overview:
+## Files Overview
 - index.html: Contains the game layout and elements (buttons, boxes, etc.).
 - style.css: Handles the styling of the game, including the black/white/red/blue color scheme.
 - app.js: Implements the game logic, winner detection, draw condition, and reset functionality.
