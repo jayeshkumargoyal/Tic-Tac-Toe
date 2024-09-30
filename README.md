@@ -12,9 +12,10 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 - Simple hover effects and interactivity for better user experience.
 
 ## Technologies Used
-### HTML: For the structure and layout of the game board.
-### CSS: For styling the game board, buttons, and hover effects, creating a professional and minimalist design.
-### JavaScript: For game logic, turn handling, winner and draw detection, and interactivity.
+#### HTML: For the structure and layout of the game board.
+#### CSS: For styling the game board, buttons, and hover effects, creating a professional and minimalist design.
+#### JavaScript: For game logic, turn handling, winner and draw detection, and interactivity.
+
 
 ## Game Rules
 - The game is played between two players. Player "X" and Player "O" take turns to mark empty cells in a 3x3 grid.
