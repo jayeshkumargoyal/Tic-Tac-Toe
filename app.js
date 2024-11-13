@@ -5,7 +5,7 @@ let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
 let turnO = true; // playerX, playerO
-const winPatterns = [
+const winPatterns = [ // Winning Logic
     [0,1,2],
     [0,3,6],
     [0,4,8],
